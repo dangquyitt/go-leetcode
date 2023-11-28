@@ -15,3 +15,4 @@
 
 - **Easy**
   - [0196. Delete Duplicate Emails](databases/easy/0196-delete-duplicate-emails.md)
+  - [0511. Game Play Analysis I](databases/easy/0511-game-play-analysis-i.md)
